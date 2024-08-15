@@ -1,4 +1,4 @@
-rg1_name                 = "East-RG01"
+rg1_name                 = "East-RG01-GITVM"
 #rg2_name                 = "Central-RG01"
 rg1_location             = "eastus"
 #rg2_location             = "centralus"
